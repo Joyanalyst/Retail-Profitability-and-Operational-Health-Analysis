@@ -34,7 +34,7 @@
 
 ## Insight Deep Dive
 ### 1.	Sales and Seasonality
-###     Sales are highly concentrated in Q1 with $502,717.80 in 2023, $450,312.98 in 2024, and 4921,476.50 in 2025 respectively, indicating a peak period over Q2, Q3 and Q4 with a slightly declined sales. QoQ sales growth is volatile, as the growth fluctuates between each quarter, as recorded in Q3 with a positive growth of 12.63% in 2023 and a negative growth of -13.23% in 2024. This serves as a necessary             indicator to assess momentum outside of peak periods 
+###     Sales are highly concentrated in Q1 with $502,717.80 in 2023, $450,312.98 in 2024, and 4921,476.50 in 2025 respectively, indicating a peak period over Q2, Q3 and Q4 with a slightly declining sales. QoQ sales growth is volatile, fluctuating from quarter to quarter: it was positive at 12.63% in Q3 2023 and negative at -13.23% in Q3 2024. This serves as a necessary indicator to assess momentum outside of peak periods 
 ### 2.	Return rate red flags
 ### The analysis recorded the top 3 products with the highest return rates. The Laptop had the highest return rate of 47.43% in the south region, while the monitor and chair had return rates of 44.49% and 35.71% in the west region, respectively. These figures exceed the industry benchmark and directly indicate either a systematic product quality issue or a significant discrepancy between the product description/expectation setting.
 ### 3. Lead Time Gap
